@@ -14,37 +14,37 @@ P,"Denton, John",M,30,S,Other,1,N
 P,"Dolan, Patrick",M,35,S,Other,1,Y
 S,"Donner, Elitha Cumi",F,13,S,George_Donner,7,N
 S,"Donner, Eliza Poor",F,3,S,George_Donner,7,N
-P,"Donner, Elizabeth Blue Hook",F,38,M,Jacob_Donner,9,N
+P,"Donner, Elizabeth Blue Hook",F,38,M,Jacob_Donner,9,Y
 S,"Donner, Frances Eustis",F,6,S,George_Donner,7,N
-P,"Donner, George",M,60,M,George_Donner,7,N
+P,"Donner, George",M,60,M,George_Donner,7,Y
 S,"Donner, George, Jr.",M,9,S,Jacob_Donner,9,N
 S,"Donner, Georgia Ann",F,4,S,George_Donner,7,N
-P,"Donner, Isaac",M,5,S,Jacob_Donner,9,N
-P,"Donner, Jacob",M,56,M,Jacob_Donner,9,N
+P,"Donner, Isaac",M,5,S,Jacob_Donner,9,Y
+P,"Donner, Jacob",M,56,M,Jacob_Donner,9,Y
 S,"Donner, Leanna Charity",F,11,S,George_Donner,7,N
 P,"Donner, Lewis",M,3,S,Jacob_Donner,9,N
 S,"Donner, Mary",F,7,S,Jacob_Donner,9,N
-P,"Donner, Samuel",M,4,S,Jacob_Donner,9,N
+P,"Donner, Samuel",M,4,S,Jacob_Donner,9,Y
 P,"Donner, Tamzene Eustis Dozier",F,44,M,George_Donner,7,Y
 P,"Eddy, Eleanor Priscilla",F,25,M,Eddy,4,N
-P,"Eddy, James",M,3,S,Eddy,4,N
+P,"Eddy, James",M,3,S,Eddy,4,Y
 P,"Eddy, Margaret",F,1,S,Eddy,4,N
-S,"Eddy, William Henry",M,30,M,Eddy,4,N
+S,"Eddy, William Henry",M,28,M,Eddy,4,N
 P,"Elliott, Milford (""Milt"")",M,28,S,Other,1,Y
-P,"Fosdick, Jay",M,23,M,Graves_Fosdick,12,N
+P,"Fosdick, Jay",M,23,M,Graves_Fosdick,12,Y
 S,"Fosdick, Sarah Graves",F,21,M,Graves_Fosdick,12,N
 P,"Foster, Jeremiah George",M,1,S,Murphy_Foster_Pike,13,Y
 S,"Foster, Sarah Ann Charlotte Murphy",F,19,M,Murphy_Foster_Pike,13,N
 S,"Foster, William McFadden",M,30,M,Murphy_Foster_Pike,13,N
 S,"Graves, Eleanor (Ellen)",F,14,S,Graves_Fosdick,12,N
-P,"Graves, Elizabeth Cooper",F,45,M,Graves_Fosdick,12,N
+P,"Graves, Elizabeth Cooper",F,45,M,Graves_Fosdick,12,Y
 S,"Graves, Elizabeth",F,1,S,Graves_Fosdick,12,Y
 P,"Graves, Franklin Ward",M,57,M,Graves_Fosdick,12,Y
 P,"Graves, Franklin Ward, Jr.",M,5,S,Graves_Fosdick,12,Y
 S,"Graves, Jonathan",M,7,S,Graves_Fosdick,12,N
 S,"Graves, Lovina",F,12,S,Graves_Fosdick,12,N
 S,"Graves, Mary Ann",F,19,S,Graves_Fosdick,12,N
-S,"Graves, Nancy",F,9,S,Graves_Fosdick,12,N
+S,"Graves, Nancy",F,8,S,Graves_Fosdick,12,N
 S,"Graves, William Cooper",M,17,S,Graves_Fosdick,12,N
 P,"Halloran, Luke",M,25,S,Other,1,N
 P,"Hardcoop, Mr. ----",M,60,S,Other,1,N
@@ -62,9 +62,9 @@ S,"McCutchen, Amanda Henderson",F,25,M,McCutchen,3,N
 P,"McCutchen, Harriet",F,1,S,McCutchen,3,N
 S,"McCutchen, William",M,30,M,McCutchen,3,N
 S,"Miller, Hiram O.",M,30,S,Other,1,N
-P,"Murphy, John Landrum",M,16,S,Murphy_Foster_Pike,13,N
-P,"Murphy, Lemuel B.",M,12,S,Murphy_Foster_Pike,13,N
-P,"Murphy, Levinah W. Jackson",F,36,W,Murphy_Foster_Pike,13,N
+P,"Murphy, John Landrum",M,16,S,Murphy_Foster_Pike,13,Y
+P,"Murphy, Lemuel B.",M,12,S,Murphy_Foster_Pike,13,Y
+P,"Murphy, Levinah W. Jackson",F,36,W,Murphy_Foster_Pike,13,Y
 S,"Murphy, Meriam Marjory (Mary M.)",F,14,S,Murphy_Foster_Pike,13,N
 S,"Murphy, Simon Peter",M,8,S,Murphy_Foster_Pike,13,N
 S,"Murphy, William Green",M,10,S,Murphy_Foster_Pike,13,N
@@ -78,10 +78,10 @@ S,"Reed, Margret Wilson Keyes Backenstoe",F,32,M,Reed_Keyes,7,N
 S,"Reed, Martha Jane (""Patty"")",F,8,S,Reed_Keyes,7,N
 S,"Reed, Thomas Keyes",M,4,S,Reed_Keyes,7,N
 S,"Reed, Virginia Elizabeth Backenstoe",F,13,S,Reed_Keyes,7,N
-P,"Reinhardt, Joseph",M,30,S,Other,1,N
+P,"Reinhardt, Joseph",M,30,S,Other,1,Y
 P,Salvador,M,28,S,Other,1,Y
 P,"Shoemaker, Samuel",M,25,S,Other,1,Y
-P,"Smith, James",M,25,S,Other,1,N
+P,"Smith, James",M,25,S,Other,1,Y
 P,"Snyder, John",M,25,S,Other,1,N
 P,"Spitzer, Augustus",M,30,S,Other,1,N
 P,"Stanton, Charles Tyler",M,35,S,Other,1,N
